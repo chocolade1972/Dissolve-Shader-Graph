@@ -2,4 +2,4 @@
 Dissolve Shader Graph
 
 
-![hippo](https://giphy.com/gifs/llOCP5BVGaBVeuTCnh)
+https://giphy.com/gifs/llOCP5BVGaBVeuTCnh
